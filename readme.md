@@ -3,7 +3,8 @@ They are 3 different effects.
 
 Script developed and tested for Jquery v1.9.1. The script wait 8 seconds to launch the first effect.
 
----- HOW IT WORKS ----
+HOW IT WORKS
+------------
 
 To use this Jquery script, you need a specific HTML structure :
 
@@ -15,3 +16,8 @@ You just need to respect this structure and add "wa-kenburn-block" class on the 
 The script is very light but can be even more with the minfied version.
 
 Your container must have a width and a height, the children image must be bigger than the container (arround +30%) and set overflow:hidden to the CSS of the container.
+
+License
+-------
+
+MIT, see LICENSE.md
